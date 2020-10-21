@@ -1,0 +1,74 @@
+Keystone Kops  ( KOPS )  Keith Bart , <no phone> , <no email> , Alexander Cartwright
+            Player               ID      $   Con   W  SV    IP    H  BB  ER   K    ERA    WHIP  
+A P CHRIS ARCHER              00326752  2.20 A     1   0   11.0   7   5   3  15   2.455   1.091
+A P SEAN DOOLITTLE            00389914  1.50 19    2   0    4.3   4   0   0   4   0.000   0.923
+A P MAX FRIED                 00657860  0.60 19    1   0    7.7   1   2   0   5   0.000   0.391
+A P GREG HOLLAND              00389859  1.00 B     1   2    3.0   1   0   0   4   0.000   0.333
+O P COREY KNEBEL              00737537  0.10 A   <No stats returned>
+A P KENTA MAEDA               00379502  1.90 A     2   0   11.7   9   6   4  10   3.086   1.286
+A P HECTOR NERIS              00550523  0.60 A     0   1    4.7   2   0   2   5   3.857   0.429
+A P TREVOR RICHARDS           00922230  0.10 B     0   0   12.0   9   5   4  11   3.000   1.167
+A P LUKE WEAVER               00599729  0.70 A     0   0    9.3  11   4   7   7   6.750   1.607
+KOPS  - Pitcher Totals:                            7   3   63.7  44  22  20  61   2.827   1.037
+            Player               ID      $   Con   AB  Hits  HR  RBI   RS   SB    BA    Positions
+O U TREA TURNER               00599179  2.50 20    14    5    2    4    4    4  0.3571  <S>
+A C AUSTIN BARNES             00578958  0.70 19    19    8    2    5    7    0  0.4211  <C2>
+O C BRIAN MCCANN              00202311  0.40 A     14    4    0    4    0    0  0.2857  <C>
+A 1 WILMER FLORES             00455617  0.40 B     23    5    0    0    3    0  0.2174  <123>
+O 2 DANIEL MURPHY             00327744  2.30 B     10    1    0    0    1    0  0.1000  <12>
+A S COREY SEAGER              00657913  2.50 20    40   10    1    5    6    0  0.2500  <S>
+A 3 EVAN LONGORIA             00326460  0.90 A     40    7    1    2    4    0  0.1750  <3>
+O W RYAN MCMAHON              00737539  1.00 B     25    5    0    1    3    0  0.2000  <1>
+A M FERNANDO JR TATIS         00919910  1.00 A     38    9    3    6    7    1  0.2368  <S>
+A O JOSE MARTINEZ             00380012  1.80 A     20    3    0    2    1    0  0.1500  <1O>
+A O JOC PEDERSON              00549081  0.70 B     30    7    3    6    9    0  0.2333  <O>
+A O HUNTER RENFROE            00549860  0.80 B     26    8    3    6    4    0  0.3077  <O>
+A O JESSE WINKER              00657865  1.50 19    24    1    0    0    0    0  0.0417  <O>
+A O BEN ZOBRIST               00253735  0.70 A     31   11    0    4    5    0  0.3548  <2O>
+KOPS  - Hitter Totals:                            354   84   15   45   54    5  0.2373
+R P KEONE KELA                00602412  1.00 A     0   0    4.3   3   2   3   6   6.231   1.154
+R 2 HOWIE KENDRICK            00202111  1.00 A      4    1    0    1    2    0  0.2500  <2O>
+R W DAVID BOTE                00658323  1.00 A     18    6    0    3    3    0  0.3333  <C123SO>
+M P TOUKI TOUSSAINT           00828666  1.00 M   <No stats returned>
+M C KEIBERT RUIZ              00000000  1.00 M   <No stats returned>
+M 3 LUCAS ERCEG               00000000  1.00 M   <No stats returned>
+M O TRENT GRISHAM             00000000  1.00 M   <No stats returned>
+M O IAN HAPP                  00827194  1.00 M   <No stats returned>
+Keystone Kops  ( KOPS )  Keith Bart , <no phone> , <no email> , Alexander Cartwright
+            Player               ID      $   Con   W  SV    IP    H  BB  ER   K    ERA    WHIP  
+A P CHRIS ARCHER              00326752  2.20 A     1   0   18.0  11   7   4  24   2.000   1.000
+A P SEAN DOOLITTLE            00389914  1.50 19    3   1    8.0   6   2   0   8   0.000   1.000
+A P MAX FRIED                 00657860  0.60 19    2   0   13.7   6   3   0   9   0.000   0.659
+A P GREG HOLLAND              00389859  1.00 B     1   2    5.0   1   1   0   8   0.000   0.400
+A P MERRILL KELLY             00552177  1.00 A     1   0   19.0  17   3   8  17   3.789   1.053
+A P KENTA MAEDA               00379502  1.90 A     2   0   17.0  16   7   9  15   4.765   1.353
+A P HECTOR NERIS              00550523  0.60 A     0   1    6.3   3   2   2   8   2.842   0.789
+A P TREVOR RICHARDS           00922230  0.10 B     0   0   22.7  14  14   9  21   3.574   1.235
+A P LUKE WEAVER               00599729  0.70 A     0   0   15.7  16   4   9  15   5.170   1.277
+KOPS  - Pitcher Totals:                            9   4  115.7  84  43  40  119   3.112   1.098
+            Player               ID      $   Con   AB  Hits  HR  RBI   RS   SB    BA    Positions
+A U KEONE KELA                00602412  1.00 A     0   0    5.7   6   3   5   7   7.941   1.588
+A C AUSTIN BARNES             00578958  0.70 19    39   10    2    5    8    0  0.2564  <C2>
+A C CURT CASALI               00545020  1.00 A     20    7    0    1    3    0  0.3500  <C>
+A 1 WILMER FLORES             00455617  0.40 B     41    8    0    0    4    0  0.1951  <123>
+A 2 HOWIE KENDRICK            00202111  1.00 A     15    8    2    5    7    0  0.5333  <2O>
+A S COREY SEAGER              00657913  2.50 20    63   14    2    6   10    0  0.2222  <S>
+A 3 EVAN LONGORIA             00326460  0.90 A     61   12    1    3    5    0  0.1967  <3>
+A W DAVID BOTE                00658323  1.00 A     31    8    1    7    4    0  0.2581  <C123SO>
+A M FERNANDO JR TATIS         00919910  1.00 A     60   17    5   11    9    1  0.2833  <S>
+A O JOSE MARTINEZ             00380012  1.80 A     30    8    0    5    4    0  0.2667  <1O>
+A O JOC PEDERSON              00549081  0.70 B     55   14    7   12   15    0  0.2545  <O>
+A O HUNTER RENFROE            00549860  0.80 B     47   11    4    7    7    0  0.2340  <O>
+A O JESSE WINKER              00657865  1.50 19    43    8    4    8    7    0  0.1860  <O>
+A O BEN ZOBRIST               00253735  0.70 A     44   13    0    4    5    0  0.2955  <2O>
+KOPS  - Hitter Totals:                            600  150   30   82   95    5  0.2500
+R P COREY KNEBEL              00737537  0.10 A   <No stats returned>
+P P TOUKI TOUSSAINT           00828666  1.00 A     1   0    6.0   4   2   0   7   0.000   1.000
+R C BRIAN MCCANN              00202311  0.40 A     14    4    0    4    0    0  0.2857  <C>
+R 1 DANIEL MURPHY             00327744  2.30 B     10    1    0    0    1    0  0.1000  <12>
+R 2 RYAN MCMAHON              00737539  1.00 B     25    5    0    1    3    0  0.2000  <1>
+R S TREA TURNER               00599179  2.50 20    14    5    2    4    4    4  0.3571  <S>
+M C KEIBERT RUIZ              00000000  1.00 M   <No stats returned>
+M 3 LUCAS ERCEG               00000000  1.00 M   <No stats returned>
+M O TRENT GRISHAM             00000000  1.00 M   <No stats returned>
+M O IAN HAPP                  00827194  1.00 M   <No stats returned>

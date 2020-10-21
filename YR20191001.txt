@@ -1,0 +1,547 @@
+ 
+  Weekly Stats as of: 2019-10-01
+ 
+ 
+         Wins                Saves            Strikeouts               ERA                    WHIP
+   SQDS   17  12.0     ACES   21  12.0     PWIZ   241  12.0     CRIT  3.3911  12.0     SQDS  1.1260  12.0
+   PWIZ   16  11.0     PWIZ   13  10.5     DLAY   240  11.0     ACES  3.5000  11.0     CRIT  1.1638  11.0
+   KOPS   15   9.0     PMOB   13  10.5     BOYS   235  10.0     SQDS  3.5079  10.0     DLAY  1.1909  10.0
+   BALZ   15   9.0     KOPS   12   9.0     CRIT   224   8.5     DLAY  3.5182   9.0     PWIZ  1.2173   9.0
+   BOYS   15   9.0     RAKE   11   7.5     SQDS   224   8.5     KOPS  3.6603   8.0     RAKE  1.2426   8.0
+   DLAY   14   7.0     BOYS   11   7.5     KOPS   218   6.5     WARD  3.8697   7.0     ACES  1.2500   7.0
+   PMOB   13   5.5     DLAY    6   5.5     PMOB   218   6.5     PWIZ  4.1444   6.0     KOPS  1.2919   6.0
+   WARD   13   5.5     BALZ    6   5.5     LOUS   217   4.5     BOYS  4.2188   5.0     WARD  1.3046   5.0
+   CRIT   11   4.0     LOUS    3   4.0     WARD   217   4.5     LOUS  4.4091   4.0     BOYS  1.3125   4.0
+   RAKE   10   2.5     SQDS    2   3.0     RAKE   216   3.0     RAKE  4.6337   3.0     LOUS  1.3939   3.0
+   LOUS   10   2.5     CRIT    0   1.5     ACES   197   2.0     PMOB  4.8682   2.0     BALZ  1.4067   2.0
+   ACES    9   1.0     WARD    0   1.5     BALZ   167   1.0     BALZ  4.9396   1.0     PMOB  1.4091   1.0
+ 
+          HR                 RBI                 Runs                 SB                  BA
+   PMOB   59  12.0     PMOB  174  12.0     DLAY  187  12.0     BOYS   19  12.0     LOUS  0.2697  12.0
+   CRIT   51  11.0     BOYS  164  11.0     CRIT  166  11.0     CRIT   17  11.0     DLAY  0.2690  11.0
+   KOPS   48  10.0     LOUS  159  10.0     LOUS  165  10.0     DLAY   16   9.5     PWIZ  0.2669  10.0
+   PWIZ   47   9.0     CRIT  156   9.0     RAKE  159   9.0     LOUS   16   9.5     ACES  0.2619   9.0
+   LOUS   45   7.5     DLAY  154   8.0     KOPS  155   8.0     KOPS   15   7.5     PMOB  0.2553   8.0
+   BOYS   45   7.5     KOPS  141   7.0     BOYS  152   7.0     WARD   15   7.5     KOPS  0.2551   7.0
+   ACES   42   6.0     RAKE  134   6.0     PMOB  150   6.0     PWIZ   14   6.0     RAKE  0.2545   6.0
+   RAKE   37   4.0     PWIZ  133   5.0     ACES  149   5.0     PMOB   12   5.0     BOYS  0.2521   5.0
+   DLAY   37   4.0     BALZ  131   4.0     PWIZ  139   4.0     BALZ   11   3.5     SQDS  0.2487   4.0
+   BALZ   37   4.0     ACES  130   3.0     SQDS  113   3.0     ACES   11   3.5     WARD  0.2424   3.0
+   SQDS   34   2.0     SQDS  123   2.0     BALZ  111   2.0     SQDS    7   2.0     CRIT  0.2397   2.0
+   WARD   33   1.0     WARD  103   1.0     WARD   98   1.0     RAKE    5   1.0     BALZ  0.2317   1.0
+ 
+   Pitching Points     Hitting Points       Total Points
+   PWIZ      48.50     LOUS      49.00     DLAY      87.00  
+   SQDS      45.50     DLAY      44.50     PWIZ      82.50  
+   DLAY      42.50     CRIT      44.00     CRIT      81.00  
+   KOPS      38.50     PMOB      43.00     BOYS      78.00    3*IP + AB = 2016 + 1202 = 3218
+   CRIT      37.00     BOYS      42.50     KOPS      78.00    3*IP + AB = 1881 + 1031 = 2912
+   BOYS      35.50     KOPS      39.50     PMOB      68.50  
+   ACES      33.00     PWIZ      34.00     LOUS      67.00  
+   PMOB      25.50     ACES      26.50     ACES      59.50  
+   RAKE      24.00     RAKE      26.00     SQDS      58.50  
+   WARD      23.50     BALZ      14.50     RAKE      50.00  
+   BALZ      18.50     WARD      13.50     WARD      37.00  
+   LOUS      18.00     SQDS      13.00     BALZ      33.00  
+ 
+ 
+  Keystone Kops (KOPS) Keith Bart,0, ,Alexander Cartwright
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   O P  CHRIS ARCHER              00326752  2.20 A     1   0    27.0    23   12   13    29   4.333   1.296
+   A P  SEAN DOOLITTLE            00389914  1.50 19    3   3    13.3    12    3    2    17   1.350   1.125
+   A P  MAX FRIED                 00657860  0.60 19    3   0    31.3    27    7    8    26   2.298   1.085
+   A P  GREG HOLLAND              00389859  1.00 B     1   5     9.0     2    4    0    14   0.000   0.667
+   A P  MERRILL KELLY             00552177  1.00 A     2   0    29.7    29   12   13    27   3.944   1.382
+   A P  KENTA MAEDA               00379502  1.90 A     3   0    32.7    34   15   16    28   4.408   1.500
+   A P  HECTOR NERIS              00550523  0.60 A     0   4    12.3     9    3    4    19   2.919   0.973
+   A P  TREVOR RICHARDS           00922230  0.10 B     0   0    33.0    26   18   17    31   4.636   1.333
+   A P  LUKE WEAVER               00599729  0.70 A     2   0    31.3    32    7   13    36   3.734   1.245
+  KOPS  - Pitcher Totals:                             15  12  209.0  190   80   85  218   3.660   1.292
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  GARRETT HAMPSON           00738479  1.50 A     76    14    1    4    8    1  0.1842  <2>
+   A C  AUSTIN BARNES             00578958  0.70 19    69    15    3    8   12    1  0.2174  <C2>
+   A C  BRIAN MCCANN              00202311  0.40 A     37    11    1    8    2    0  0.2973  <C>
+   A 1  WILMER FLORES             00455617  0.40 B     76    17    0    5    8    0  0.2237  <123>
+   A 2  RYAN MCMAHON              00737539  1.00 B     63    15    2   10    9    1  0.2381  <12>
+   A S  COREY SEAGER              00657913  2.50 20   105    26    2    9   18    0  0.2476  <S>
+   A 3  EVAN LONGORIA             00326460  0.90 A    100    21    3   11    9    1  0.2100  <3>
+   A W  DAVID BOTE                00658323  1.00 A     61    17    3   14   10    0  0.2787  <3>
+   A M  FERNANDO JR TATIS         00919910  1.00 A    100    30    6   13   14    6  0.3000  <S>
+   A O  BEN GAMEL                 00548493  1.00 A     52    14    1    4    9    1  0.2692  <O>
+   A O  JOSE MARTINEZ             00380012  1.80 A     74    26    1   13   11    1  0.3514  <1O>
+   A O  JOC PEDERSON              00549081  0.70 B     92    22   10   18   22    0  0.2391  <O>
+   A O  HUNTER RENFROE            00549860  0.80 B     75    18    6   12    9    1  0.2400  <O>
+   A O  JESSE WINKER              00657865  1.50 19    88    21    8   13   16    0  0.2386  <O>
+  KOPS  - Hitter Totals:                             1031   263   48  141  155   15  0.2551
+ 
+  KOPS  - Reserved and Minor League Players
+   P P  KEONE KELA                00602412  0.20 F     1   0    10.7     9    4    6    11   5.063   1.219
+   P 1  DANIEL MURPHY             00327744  2.30 B     31     7    2    5    6    0  0.2258  <12>
+   R P  COREY KNEBEL              00737537  0.10 A   <No stats returned>
+   R S  TREA TURNER               00599179  2.50 20    14     5    2    4    4    4  0.3571  <S>
+   M P  TOUKI TOUSSAINT           00828666  1.00 M     1   0     7.3    10    3    7     9   8.591   1.773
+   M C  KEIBERT RUIZ              00000000  1.00 M   <No stats returned>
+   M 3  LUCAS ERCEG               00000000  1.00 M   <No stats returned>
+   M O  TRENT GRISHAM             00000000  1.00 M   <No stats returned>
+   M O  IAN HAPP                  00827194  1.00 M   <No stats returned>
+ 
+ 
+  Chris B Critters (CRIT) Chris Butler,0, ,Tom Yawkey
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  NICK ANDERSON             00578957  1.00 A     0   0    12.3     9    2    3    25   2.189   0.892
+   A P  JEURYS FAMILIA            00456027  0.30 A     2   0    12.7    12   12    8    12   5.684   1.895
+   A P  JONATHAN GRAY             00549112  0.60 A     2   0    37.0    31   16   15    34   3.649   1.270
+   A P  SETH LUGO                 00599698  0.10 B     1   0    17.7    16    5    8    24   4.075   1.189
+   A P  ANDREW MILLER             00326467  0.40 A     1   0    10.7    11    9    7    15   5.906   1.875
+   A P  JOE MUSGROVE              00597766  0.20 B     1   0    35.0    25    7    8    31   2.057   0.914
+   A P  CHRIS PADDACK             00875195  1.30 A     1   0    27.0    10    8    5    30   1.667   0.667
+   A P  ROBBIE RAY                00549085  1.90 A     1   0    32.3    23   17   15    37   4.175   1.237
+   A P  VINCENT VELASQUEZ         00548239  0.10 B     1   0    22.7    16    7    5    22   1.985   1.015
+   A U  ROBERT STEPHENSON         00597792  1.00 A     2   0    14.0     8    4    3    18   1.929   0.857
+  CRIT  - Pitcher Totals:                             11   0  209.7  153   91   79  224   3.391   1.164
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A C  TUCKER BARNHART           00501601  0.50 B     65    14    2    5    8    0  0.2154  <C>
+   A C  AUSTIN HEDGES             00597799  0.30 A     63    11    4    9    5    0  0.1746  <C>
+   A 1  MATT CARPENTER            00501744  1.80 B    100    21    3    5   18    1  0.2100  <13>
+   A 2  HERNAN PEREZ              00503318  0.80 A     52    11    3    6    7    1  0.2115  <23O>
+   A S  MANNY MACHADO             00548155  4.30 A    102    24    4   12   14    1  0.2353  <3>
+   A 3  EUGENIO SUAREZ            00505033  2.40 B     95    22    6   15   10    0  0.2316  <3>
+   A W  JUSTIN TURNER             00326827  1.60 19   100    27    0    9   10    0  0.2700  <3>
+   A M  YANGERVIS SOLARTE         00393004  0.50 A     59    14    1    7    9    0  0.2373  <2>
+   A O  BRANDON NIMMO             00597760  1.10 20    83    20    3    9   17    1  0.2410  <O>
+   A O  MARCELL OZUNA             00503013  3.90 A     96    26   10   28   24    3  0.2708  <O>
+   A O  VICTOR ROBLES             00828409  1.00 A    102    26    4   11   19    7  0.2549  <O>
+   A O  JUAN SOTO                 00906282  1.00 B    101    25    6   22   16    3  0.2475  <O>
+   A O  ALEX VERDUGO              00828699  0.90 A     69    23    4   16    8    0  0.3333  <O>
+  CRIT  - Hitter Totals:                             1114   267   51  156  166   17  0.2397
+ 
+  CRIT  - Reserved and Minor League Players
+   P P  CORBIN BURNES             00873673  0.30 F     0   0    17.7    30    8   21    24  10.698   2.151
+   P P  RYAN HELSLEY              00874172  0.20 F     0   0     6.3     3    0    2     7   2.842   0.474
+   P P  GERARDO REYES             00829912  0.20 F     1   0     1.0     3    1    4     2  36.000   4.000
+   P C  CURT CASALI               00545020  0.10 F     36    11    0    5    3    0  0.3056  <C>
+   P 2  JOSE PIRELA               00455905  0.10 F      5     0    0    0    0    0  0.0000  <O>
+   R P  ALEX REYES                00739551  0.90 A     0   0     3.0     2    6    5     1  15.000   2.667
+   R P  DENNIS SANTANA            00737018  0.30 F     0   0     5.0     6    4    4     6   7.200   2.000
+   R P  JUSTIN WILSON             00454547  1.00 A     1   1     8.3     6    4    3     8   3.240   1.200
+   R 1  PETE O'BRIEN              00577327  0.10 A     27     3    1    2    1    0  0.1111  <O>
+   M C  WILLIAM CONTRERAS         00000000  1.00 M   <No stats returned>
+   M 2  ISAN DIAZ                 00000000  1.00 M   <No stats returned>
+   M 2  JONATHAN INDIA            00000000  1.00 M   <No stats returned>
+   M S  BRENDAN RODGERS           00000000  1.00 M   <No stats returned>
+ 
+ 
+  Pinball Wizard (PWIZ) Josh Davis,0, ,TBD
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  WADE DAVIS                00254328  1.80 A     1   4    10.0     7    7    1    12   0.900   1.400
+   A P  JORDAN HICKS              00875019  0.40 B     1   9    12.7     6    5    3    16   2.132   0.868
+   A P  DEREK HOLLAND             00328248  1.00 A     1   0    32.0    26   16   19    40   5.344   1.312
+   A P  JORDAN LYLES              00454403  1.00 A     2   0    22.0    18    5    5    21   2.045   1.045
+   A P  NICK MARGEVICIUS          01055202  0.10 A     2   0    30.7    24   10   11    26   3.228   1.109
+   A P  DERECK RODRIGUEZ          00597982  0.30 B     3   0    31.0    30    9   15    25   4.355   1.258
+   A P  CALEB SMITH               00738884  0.30 A     2   0    29.0    17    7    7    37   2.172   0.828
+   A P  MIKE SOROKA               00874715  1.00 A     2   0    16.7    13    6    3    21   1.620   1.140
+   A P  NOAH SYNDERGAARD          00548169  3.70 A     1   0    34.0    40   10   24    39   6.353   1.471
+   O U  FREDDY PERALTA            00737343  0.80 A     1   0    17.7    20    7   14    22   7.132   1.528
+  PWIZ  - Pitcher Totals:                             16  13  219.3  195   72  101  241   4.144   1.217
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A C  JORGE ALFARO              00551307  0.90 A     74    22    5    9    9    0  0.2973  <C>
+   A C  CARSON KELLY              00657963  0.10 A     51    10    0    6    3    0  0.1961  <C>
+   A 1  JOSH BELL                 00597768  1.80 A     93    26    6   19   16    0  0.2796  <1>
+   A 2  MIKE MOUSTAKAS            00388370  2.70 A     87    24    7   15   14    1  0.2759  <23>
+   A S  TREVOR STORY              00597765  5.00 A    114    33    7   19   22    6  0.2895  <S>
+   A 3  J.D. DAVIS                00597900  1.00 A     62    18    3    8   11    0  0.2903  <3>
+   A W  NEIL WALKER               00254167  0.20 A     77    20    3    4    6    1  0.2597  <1>
+   A M  WILMER DIFO               00551022  0.10 A     71    18    2    6   10    0  0.2535  <2S>
+   A O  ALBERT ALMORA             00657859  0.40 A     65    17    1    5    7    2  0.2615  <O>
+   A O  STEVEN DUGGAR             00827165  0.70 A    105    24    3   11   10    1  0.2286  <O>
+   A O  JARROD DYSON              00328207  0.20 A     64    20    3    8   13    3  0.3125  <O>
+   A O  RHYS HOSKINS              00827179  2.00 20   101    28    8   23   19    0  0.2772  <1O>
+   A O  GREGORY POLANCO           00507194  1.50 A     21     6    0    0    2    0  0.2857  <O>
+  PWIZ  - Hitter Totals:                              993   265   47  133  139   14  0.2669
+ 
+  PWIZ  - Reserved and Minor League Players
+   R P  MIKE MONTGOMERY           00454399  0.20 B     0   0     2.7     8    1    5     2  16.875   3.375
+   R P  JIMMY NELSON              00548256  0.20 A   <No stats returned>
+   R S  LUIS URIAS                00828496  1.00 A     24     2    0    0    2    0  0.0833  <2>
+   R 3  JAKE LAMB                 00503242  1.60 A     15     4    0    2    1    0  0.2667  <13>
+   R O  COREY DICKERSON           00502420  1.10 A     13     2    1    2    1    0  0.1538  <O>
+   M P  IAN ANDERSON              00000000  1.00 M   <No stats returned>
+   M P  SIXTO SANCHEZ             00000000  1.00 M   <No stats returned>
+   M O  HELIOT RAMOS              00000000  1.00 M   <No stats returned>
+ 
+ 
+  BoilerRakers (RAKE) Matthew Davis,0, ,Jim Fregosi
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  JOHN BREBBIA              00577972  1.00 A     1   0    16.3     6    8    1    20   0.551   0.857
+   A P  JHOULYS CHACIN            00392462  0.30 B     2   0    28.3    25   15   20    25   6.353   1.412
+   A P  ADAM CONLEY               00597781  0.20 A     0   1     9.7    16    4    9    10   8.379   2.069
+   A P  ZACK GREINKE              00202781  2.30 19    4   0    36.3    29    7   15    39   3.716   0.991
+   A P  JOSH HADER                00658473  0.70 B     0   6    14.0     6    4    5    29   3.214   0.714
+   A P  JARED HUGHES              00326699  1.00 A     2   0    11.0    12    5    7     8   5.727   1.545
+   A P  SERGIO ROMO               00293981  0.60 A     1   4     9.0     7    4    6     7   6.000   1.222
+   A P  MAX SCHERZER              00326473  4.10 19    1   0    39.3    39    5   18    54   4.119   1.119
+   A P  MATT STRAHM               00658557  0.50 A     0   0    26.7    23    5    9    21   3.038   1.050
+  RAKE  - Pitcher Totals:                             10  11  202.0  183   68  104  216   4.634   1.243
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  TYLER AUSTIN              00549178  0.40 F     24     7    0    1    5    0  0.2917  <1>
+   A C  FRANCISCO CERVELLI        00294320  0.10 B     80    14    1    4    9    0  0.1750  <C>
+   A C  WILSON RAMOS              00328504  1.70 A     85    22    1   17   12    0  0.2588  <C>
+   A 1  JESUS AGUILAR             00505981  0.10 B     77    12    2    9    7    0  0.1558  <1>
+   A 2  OZZIE ALBIES              00830219  2.00 20   117    35    6   12   24    3  0.2991  <2>
+   A S  JEAN SEGURA               00455922  3.90 A     72    25    1   11   15    1  0.3472  <S>
+   A 3  JOSH DONALDSON            00389798  2.50 A     97    25    5   13   20    0  0.2577  <3>
+   A W  MATT ADAMS                00502166  0.20 B     48    13    3   13    6    0  0.2708  <1>
+   A M  DEREK DIETRICH            00390374  0.10 A     53    11    5   14    8    0  0.2075  <23>
+   A O  HARRISON BADER            00857218  0.10 B     45    10    3    7    8    0  0.2222  <O>
+   A O  DEXTER FOWLER             00268667  0.20 A     80    25    1    7   12    1  0.3125  <O>
+   O O  ODUBEL HERRERA            00505987  1.60 B     63    17    1    7    7    0  0.2698  <O>
+   A O  ANDREW MCCUTCHEN          00290131  3.30 A    105    25    5   10   23    0  0.2381  <O>
+   A O  RAIMEL TAPIA              00597078  0.10 A     65    17    3   10    4    0  0.2615  <O>
+  RAKE  - Hitter Totals:                             1002   255   37  134  159    5  0.2545
+ 
+  RAKE  - Reserved and Minor League Players
+   P S  CARTER KIEBOOM            00000000  1.00 A   <No stats returned>
+   R P  SEAN NEWCOMB              00709548  0.40 A     0   0    12.3    15    8    6     5   4.378   1.865
+   R P  KYLE WRIGHT               00874117  0.30 A     0   0    14.0    15   10   11    11   7.071   1.786
+   R 2  SCOOTER GENNETT           00501939  0.70 19  <No stats returned>
+   M P  DALLAS KEUCHEL            00501517  1.00 M   <No stats returned>
+   M S  ANDRES GIMENEZ            00000000  1.00 M   <No stats returned>
+   M 3  COLTON WELKER             00000000  1.00 M   <No stats returned>
+ 
+ 
+  South Philly Squally D's (SQDS) Pat Durante,0, ,Buck O'Neill
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  ZACH DAVIES               00599267  1.00 A     3   0    32.7    30   13    5    21   1.378   1.316
+   A P  JOHN GANT                 00599212  0.40 A     3   2    18.7     5    7    2    17   0.964   0.643
+   A P  SONNY GRAY                00455516  0.80 A     0   0    29.7    21    8   12    36   3.640   0.978
+   A P  GERMAN MARQUEZ            00656016  1.00 B     3   0    39.0    31   10   11    37   2.538   1.051
+   A P  MILES MIKOLAS             00501497  0.50 B     2   0    34.0    34    8   20    19   5.294   1.235
+   A P  CRAIG STAMMEN             00291777  0.10 A     3   0    16.3    14    1    5    12   2.755   0.918
+   A P  DREW STECKENRIDER         00621408  0.10 B     0   0    11.3     8    3    9    12   7.147   0.971
+   A P  JULIO TEHERAN             00394370  0.60 B     2   0    31.7    33   17   19    36   5.400   1.579
+   A P  TREVOR WILLIAMS           00708217  0.50 B     1   0    37.3    32    7   14    27   3.375   1.045
+  SQDS  - Pitcher Totals:                             17   2  254.0  212   74   99  224   3.508   1.126
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  YAIRO MUNOZ               00657210  0.10 B     10     2    0    0    2    0  0.2000  <O>
+   A C  JOHN RYAN MURPHY          00500839  1.00 A     33     8    3    4    7    0  0.2424  <C>
+   A C  BUSTER POSEY              00454353  1.80 A     85    21    1    8    6    0  0.2471  <C1>
+   A 1  ANTHONY RIZZO             00390610  3.60 B     98    21    5   16   19    0  0.2143  <1>
+   A 2  KOLTEN WONG               00455324  1.30 A     88    23    4   14   14    4  0.2614  <2>
+   A S  CHRIS TAYLOR              00621666  0.90 19    66    11    1    7    3    1  0.1667  <2O>
+   A 3  ANTHONY RENDON            00455515  3.00 19    73    26    6   18   21    0  0.3562  <3>
+   A W  JEDD GYORKO               00526816  0.50 A     20     2    0    1    2    0  0.1000  <3>
+   A M  CHARLIE CULBERSON         00389929  0.20 A     12     5    2    6    2    0  0.4167  <13S>
+   A O  RYAN BRAUN                00291154  2.60 A     95    19    5   16   11    1  0.2000  <O>
+   A O  DAVID DAHL                00657861  1.00 B     78    26    2    8   11    0  0.3333  <O>
+   A O  BRYCE HARPER              00548033  4.70 A    100    25    6   20   17    1  0.2500  <O>
+   A O  ROMAN QUINN               00597773  0.20 A     25     3    0    1    1    0  0.1200  <O>
+   A O  MARK ZAGUNIS              00827207  1.00 A     28     7    0    4    1    0  0.2500  <O>
+  SQDS  - Hitter Totals:                              772   192   34  123  113    7  0.2487
+ 
+  SQDS  - Reserved and Minor League Players
+   P P  MIKE FOLTYNEWICZ          00548185  0.50 B     0   0     6.0     6    1    4     5   6.000   1.167
+   P P  JON LESTER                00202761  1.50 A     1   0    19.0    17    6    5    19   2.368   1.211
+   P S  COLE TUCKER               00828671  0.70 F     31     7    1    2    3    0  0.2258  <S>
+   R C  ALEX AVILA                00454594  0.10 A     15     5    2    5    5    0  0.3333  <C>
+   R C  VIC CARATINI              00737618  1.00 A     14     8    1    5    4    0  0.5714  <C>
+   M P  CRAIG KIMBREL             00454499  1.00 M   <No stats returned>
+   M O  VICTOR VICT MESA          00000000  1.00 M   <No stats returned>
+   M O  MICKEY MONIAK             00000000  1.00 M   <No stats returned>
+   M O  TAYLOR TRAMMELL           00000000  1.00 M   <No stats returned>
+ 
+ 
+  Dwane Delays (DLAY) Dwane Millier,0, ,Gil Hodges
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  ARCHIE BRADLEY            00597753  0.60 19    1   0    12.0    13    6    2    15   1.500   1.583
+   A P  MADISON BUMGARNER         00388396  2.10 B     1   0    37.7    37    5   18    35   4.301   1.115
+   A P  YU DARVISH                00379610  0.70 A     2   0    28.7    23   22   16    33   5.023   1.570
+   A P  PABLO LOPEZ               00736473  0.10 A     2   0    32.0    29    8   17    33   4.781   1.156
+   A P  STEVEN MATZ               00500832  0.90 B     3   0    29.3    24    8   12    29   3.682   1.091
+   A P  REYES MORONTA             00597322  0.10 A     0   0    13.0     7    6    3    21   2.077   1.000
+   A P  JEFF SAMARDZIJA           00326740  0.10 A     2   0    32.0    24   10    9    25   2.531   1.063
+   A P  JULIO URIAS               00736324  0.30 B     2   0    23.7    17    9    9    29   3.423   1.099
+   A P  FELIPE VASQUEZ            00505018  0.70 19    1   6    11.7    10    4    0    20   0.000   1.200
+  DLAY  - Pitcher Totals:                             14   6  220.0  184   78   86  240   3.518   1.191
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  MANUEL MARGOT             00657504  0.40 A     80    21    2    9    9    1  0.2625  <O>
+   A C  WILLSON CONTRERAS         00508176  2.00 19    76    21    7   17   16    1  0.2763  <C>
+   A C  YAN GOMES                 00501644  0.10 A     62    16    2    8    6    0  0.2581  <C>
+   A 1  MARK REYNOLDS             00253814  0.10 A     52    10    3    8    5    1  0.1923  <1>
+   A 2  JEFF MCNEIL               00709024  0.60 B     95    33    1   11   14    0  0.3474  <O>
+   A S  NICK AHMED                00577767  0.60 19   109    28    2   13   18    2  0.2569  <S>
+   A 3  KRIS BRYANT               00549381  2.50 19    96    22    3   13   17    1  0.2292  <3>
+   A W  MIGUEL ROJAS              00455627  0.10 A     84    23    0    8    7    0  0.2738  <S>
+   A M  PAUL DEJONG               00829829  1.30 19   114    39    5   13   25    2  0.3421  <2S>
+   A O  CHARLIE BLACKMON          00454446  4.20 A    122    34    3   15   14    2  0.2787  <O>
+   A O  LEWIS BRINSON             00657923  0.30 A     76    15    0    4    4    0  0.1974  <O>
+   A O  MICHAEL CONFORTO          00709038  1.80 20   100    27    6   13   20    2  0.2700  <O>
+   A O  ADAM EATON                00549405  2.10 A    110    32    1    8   17    4  0.2909  <O>
+   A O  A.J. POLLOCK              00500728  3.30 A    103    23    2   14   15    0  0.2233  <O>
+  DLAY  - Hitter Totals:                             1279   344   37  154  187   16  0.2690
+ 
+  DLAY  - Reserved and Minor League Players
+   M C  JOEY BART                 00000000  1.00 M   <No stats returned>
+   M 3  AUSTIN RILEY              00000000  1.00 M   <No stats returned>
+   M 3  NICK SENZEL               00000000  1.00 M   <No stats returned>
+   M O  CHRISTIAN PACHE           00000000  1.00 M   <No stats returned>
+   M O  COREY RAY                 00000000  1.00 M   <No stats returned>
+ 
+ 
+  M'Bal Zarhari (BALZ) Bob Phillips,0,  ,TBD
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  JAKE ARRIETA              00389721  1.00 B     4   0    39.0    35   15   15    30   3.462   1.282
+   A P  WALKER BUEHLER            00658292  1.00 B     2   0    24.0    20    8   14    18   5.250   1.167
+   A P  WEI-YIN CHEN              00380848  1.00 A     0   0     9.7    18    6   14    11  13.034   2.483
+   A P  SERANTH DOMINGUEZ         00657573  0.60 B     1   0    10.3    12    4    6    13   5.226   1.548
+   A P  JERAD EICKHOFF            00550286  0.50 F     1   1    17.0    12    5    4    20   2.118   1.000
+   A P  JEREMY HELLICKSON         00295725  1.00 A     2   0    21.7    26   10   14    13   5.815   1.662
+   A P  RAISEL IGLESIAS           00830702  1.70 A     1   6    14.3    11    7    5    23   3.140   1.256
+   A P  ANTONIO SENZATELA         00657576  0.20 F     2   0    18.3    20    5    8    11   3.927   1.364
+   A P  JAMESON TAILLON           00548151  1.50 B     1   0    31.0    29    6   14    25   4.065   1.129
+   A U  TREVOR GOTT               00621611  1.00 A     1   0    15.0     7    3    3    15   1.800   0.667
+  BALZ  - Pitcher Totals:                             15   6  187.7  193   71  103  167   4.940   1.407
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A C  YASMANI GRANDAL           00392198  1.20 B     89    25    6   12   15    3  0.2809  <C>
+   A C  MANNY PINA                00294107  0.30 A     26     4    0    1    1    0  0.1538  <C>
+   A 1  ERIC HOSMER               00454349  2.40 A    107    26    4   17   13    0  0.2430  <1>
+   A 2  KETEL MARTE               00597026  1.20 19   112    28    6   21   14    3  0.2500  <2S>
+   A S  AMED ROSARIO              00732115  2.00 20   103    27    2   17   10    2  0.2621  <S>
+   A 3  MAIKEL FRANCO             00549529  0.90 B     99    26    7   22   15    0  0.2626  <3>
+   O W  RYAN ZIMMERMAN            00289022  1.30 A     75    16    3   11    7    0  0.2133  <1>
+   A M  PAT VALAIKA               00708988  1.00 A     27     2    0    0    3    0  0.0741  <2S>
+   A O  IAN DESMOND               00253269  2.00 A     88    17    2   11    8    0  0.1932  <1O>
+   A O  MATT JOYCE                00291782  1.00 A     23     5    2    3    3    0  0.2174  <O>
+   A O  TYLER O'NEILL             00737633  1.30 A     32     9    1    4    4    0  0.2812  <O>
+   A O  SCOTT SCHEBLER            00549742  0.90 A     74    10    2    7   11    0  0.1351  <O>
+   A O  KYLE SCHWARBER            00709545  1.70 A     80    19    3    6    8    0  0.2375  <O>
+  BALZ  - Hitter Totals:                              958   222   37  131  111   11  0.2317
+ 
+  BALZ  - Reserved and Minor League Players
+   R P  BRANDON MORROW            00326466  0.80 A   <No stats returned>
+   R P  NICK PIVETTA              00737889  0.80 B     2   0    18.3    31    8   17    16   8.345   2.127
+   R P  DAVID ROBERTSON           00328019  1.00 A     0   0     6.7     8    6    4     6   5.400   2.100
+   R P  ALEX WOOD                 00621049  0.30 A   <No stats returned>
+   R 2  JED LOWRIE                00294693  1.10 A   <No stats returned>
+   R S  ERIK GONZALEZ             00506001  1.00 A     51    11    0    2    2    3  0.2157  <S>
+   R O  FRANCHY CORDERO           00657481  0.10 B     15     5    0    1    2    1  0.3333  <O>
+   R O  TRAVIS JANKOWSKI          00577924  0.10 A   <No stats returned>
+   M 2  KESTON HIURA              00000000  1.00 M   <No stats returned>
+   M S  JAZZ CHISHOLM             00000000  1.00 M   <No stats returned>
+   M 3  ALEX BOHM                 00000000  1.00 M   <No stats returned>
+   M 3  NOLAN GORMAN              00000000  1.00 M   <No stats returned>
+ 
+ 
+  Pretty Men of Baseball (PMOB) Ron Prettyman,0, ,Jimmy Dykes
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  KYLE BARRACLOUGH          00599542  1.00 A     0   0     9.7    10    6    2    12   1.862   1.655
+   A P  PATRICK CORBIN            00500846  2.10 B     2   0    37.7    30   10   15    44   3.584   1.062
+   A P  ZACH EFLIN                00657853  0.70 A     3   0    35.0    37    5   13    26   3.343   1.200
+   A P  ZACK GODLEY               00503798  0.40 A     1   0    29.7    33   18   25    25   7.584   1.719
+   A P  KYLE HENDRICKS            00577809  1.40 A     1   0    25.3    37    8   15    24   5.329   1.776
+   A P  KENLEY JANSEN             00295200  2.50 A     2  10    14.7    10    3    5    19   3.068   0.886
+   A P  ERIC LAUER                00738156  0.40 A     2   0    32.7    33   10   16    29   4.408   1.316
+   A P  A.J. MINTER               00659284  0.30 B     0   3     8.7    12    6    9    11   9.346   2.077
+   A P  AARON NOLA                00599230  2.60 B     2   0    31.7    37   13   20    32   5.684   1.579
+  PMOB  - Pitcher Totals:                             13  13  220.0  234   76  119  218   4.868   1.409
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  DAVID FREESE              00327063  1.00 A     39     8    1    5    6    0  0.2051  <13>
+   A C  FRANCISCO MEJIA           00739565  1.00 A     38     6    0    1    2    0  0.1579  <C>
+   A C  J.T. REALMUTO             00548255  1.30 B     97    27    4   18   18    0  0.2784  <C>
+   A 1  CODY BELLINGER            00737794  2.00 20   106    46   14   37   30    5  0.4340  <1O>
+   A 2  ROBINSON CANO             00200602  2.30 A    100    27    3   11    9    0  0.2700  <2>
+   A S  KIKE HERNANDEZ            00501542  1.00 B     92    23    5   15   15    0  0.2500  <2SO>
+   A 3  COLIN MORAN               00621019  0.40 A     51    13    2   11    5    0  0.2549  <13>
+   A W  BRANDON BELT              00327177  1.40 A     94    22    5   11   12    1  0.2340  <1>
+   A M  IAN KINSLER               00226315  1.20 A     82    11    2    2    7    1  0.1341  <2>
+   A O  RONALD ACUNA              00877503  1.00 B    101    28    6   18   17    2  0.2772  <O>
+   A O  KEVIN PILLAR              00578870  0.40 A     84    19    5   17   12    3  0.2262  <O>
+   A O  FRANMIL REYES             00657490  1.30 B     78    16    6   11    7    0  0.2051  <O>
+   A O  ERIC THAMES               00454785  1.20 A     52    15    5   16   10    0  0.2885  <1O>
+   A O  NICK WILLIAMS             00657981  0.10 A     33     6    1    4    3    0  0.1818  <O>
+  PMOB  - Hitter Totals:                             1034   264   59  174  150   12  0.2553
+ 
+  PMOB  - Reserved and Minor League Players
+   P O  PHILLIP ERVIN             00708965  0.40 F      8     1    0    1    1    0  0.1250  <O>
+   R P  RICH HILL                 00202788  0.90 A     0   0     6.0     5    0    1     6   1.500   0.833
+   R 3  JOSH FUENTES              00829934  0.30 F     18     2    0    0    2    0  0.1111  <1>
+   R O  AUSTIN DEAN               00657985  0.40 F     22     5    1    6    3    0  0.2273  <O>
+   R O  STEVEN SOUZA              00389680  0.10 A   <No stats returned>
+   M S  LUIS GARCIA               00000000  1.00 M   <No stats returned>
+   M S  NICO HOERNER              00000000  1.00 M   <No stats returned>
+   M 3  KE’BRYAN HAYES            00000000  1.00 M   <No stats returned>
+   M 3  ELEHUIS MONTERO           00000000  1.00 M   <No stats returned>
+   M O  KRISTIAN ROBINSON         00000000  1.00 M   <No stats returned>
+ 
+ 
+  Lou's Cannons (LOUS) Lou Rosen,0, ,Walter Alston
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  JACOB BARNES              00579271  1.00 A     1   0    11.3    10    6    7    14   5.559   1.412
+   A P  LUIS CASTILLO             00657487  1.90 A     3   0    36.7    21   14    5    43   1.227   0.955
+   A P  ANTHONY DESCLAFANI        00455459  0.20 A     1   0    25.3    21   11   12    28   4.263   1.263
+   A P  KEVIN GAUSMAN             00548347  1.20 A     1   0    30.0    22   10   16    33   4.800   1.067
+   A P  TAYRON GUERRERO           00551046  1.00 A     1   0    12.0     6   10    2    15   1.500   1.333
+   A P  DAVID HERNANDEZ           00295160  0.10 A     0   1    12.3    15    7    6    12   4.378   1.784
+   A P  DAKOTA HUDSON             00738673  0.10 A     2   1    24.0    33   13   15    19   5.625   1.917
+   A P  JEREMY JEFFRESS           00326478  0.50 A     0   0     3.7     3    3    1     4   2.455   1.636
+   A P  ZACK WHEELER              00500722  1.00 B     2   0    35.7    33   17   20    37   5.047   1.402
+  LOUS  - Pitcher Totals:                             10   3  198.0  180   96   97  217   4.409   1.394
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  PETER ALONSO              00873981  1.00 A    102    31    9   25   20    0  0.3039  <1>
+   O C  TRAVIS D'ARNAUD           00389876  0.10 A     23     2    0    2    2    0  0.0870  <C>
+   A C  TONY WOLTERS              00548197  1.00 A     57    16    0    5    4    0  0.2807  <C>
+   A 1  FREDDIE FREEMAN           00390291  4.10 B    106    33    5   18   23    0  0.3113  <1>
+   A 2  STARLIN CASTRO            00455874  1.70 A    109    28    3    9   11    1  0.2569  <2>
+   A S  DANSBY SWANSON            00659260  1.30 A     92    24    5   22   13    2  0.2609  <S>
+   A 3  JOHAN CAMARGO             00657234  0.50 B     61    14    1   10    7    1  0.2295  <3SO>
+   A W  DOMINIC SMITH             00737502  0.10 A     26    10    0    4    7    0  0.3846  <1>
+   A M  JAVIER BAEZ               00597757  4.80 A    111    35    9   22   23    2  0.3153  <2S>
+   A O  BRIAN ANDERSON            00599204  0.50 B    104    25    2    5    5    3  0.2404  <3>
+   A O  LORENZO CAIN              00285710  3.00 B    117    32    3    9   22    3  0.2735  <O>
+   A O  ADAM JONES                00244375  2.50 A    109    32    5   18   13    0  0.2936  <O>
+   A O  JUAN LAGARES              00381345  0.10 A     51    12    1    5    8    2  0.2353  <O>
+   A O  GERARDO PARRA             00328464  0.10 A     84    16    1    6    8    2  0.1905  <O>
+  LOUS  - Hitter Totals:                             1153   311   45  159  165   16  0.2697
+ 
+  LOUS  - Reserved and Minor League Players
+   P P  PEDRO AVILA               00872768  0.10 F     0   0     5.3     4    2    1     5   1.688   1.125
+   P P  GIOVANNY GALLEGOS         00659493  0.10 F     1   0     9.3     6    3    4    16   3.857   0.964
+   P P  YOSHIHISA HIRANO          00379727  0.20 F     1   1    10.7    13    4    5    15   4.219   1.594
+   P C  ELIAS DIAZ                00504943  0.20 F     12     1    0    1    1    0  0.0833  <C>
+   P C  BLAKE SWIHART             00597790  0.50 F     12     1    0    2    1    0  0.0833  <C>
+   P O  ISAAC GALLOWAY            00454974  0.10 F     34     8    0    1    4    2  0.2353  <O>
+   R P  VICTOR ARANO              00739831  0.20 F     1   0     4.7     2    2    2     7   3.857   0.857
+   R P  JON DUPLANTIER            00874168  0.20 A     0   1     8.0     3    4    0     7   0.000   0.875
+   R C  CHRIS IANNETTA            00254756  0.30 A     29     6    1    2    2    0  0.2069  <C>
+   M S  GAVIN LUX                 00000000  1.00 M   <No stats returned>
+ 
+ 
+  Bob's Big Boys (BOYS) Bob Thomas,0,  ,George Halas
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  SANDY ALCANTARA           00828383  0.50 A     1   0    28.0    30   12   14    21   4.500   1.500
+   A P  PEDRO BAEZ                00392144  1.00 A     2   0    16.0    10    3    7    16   3.938   0.813
+   A P  EDWIN DIAZ                00657938  2.20 A     0   8    11.7     8    2    2    20   1.543   0.857
+   A P  JACK FLAHERTY             00828681  1.00 B     3   0    31.0    32    6   14    36   4.065   1.226
+   A P  HYUN-JIN RYU              00722329  0.30 B     3   0    27.3    26    2    9    33   2.963   1.024
+   A P  ANIBAL SANCHEZ            00226473  0.20 A     0   0    27.0    32   16   18    20   6.000   1.778
+   A P  ROSS STRIPLING            00598259  1.40 A     1   0    34.3    29   11   13    32   3.408   1.165
+   A P  PEDRO STROP               00244108  1.00 B     1   3     9.7     6    2    3     9   2.793   0.828
+   A P  BRANDON WOODRUFF          00597893  0.50 A     3   0    31.3    36   10   18    38   5.170   1.468
+  BOYS  - Pitcher Totals:                             15  11  224.0  219   75  105  235   4.219   1.313
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  ADAM FRAZIER              00737830  1.30 A     87    22    1    5   11    2  0.2529  <2O>
+   A C  YADIER MOLINA             00200258  1.20 A    104    28    2   20   10    1  0.2692  <C>
+   A C  KURT SUZUKI               00262428  0.30 B     45    11    2    9    4    0  0.2444  <C>
+   A 1  CHRISTIAN WALKER          00503826  0.80 A     98    31    7   15   16    3  0.3163  <1>
+   A 2  CESAR HERNANDEZ           00503285  1.20 B    105    28    2    9   14    2  0.2667  <2>
+   A S  BRANDON CRAWFORD          00454517  1.20 A     97    20    0    2    5    1  0.2062  <S>
+   A 3  TRAVIS SHAW               00578040  2.10 19    95    18    4    8    9    0  0.1895  <3>
+   A W  JUNG-HO KANG              00723942  1.30 A     75    12    4    8    5    0  0.1600  <3>
+   A M  HOWIE KENDRICK            00202111  1.00 A     49    15    4   13   11    0  0.3061  <3O>
+   A O  DANIEL DESCALSO           00390375  0.10 A     71    19    1   10   11    1  0.2676  <2O>
+   A O  NICK MARKAKIS             00225649  1.30 19   100    33    2   18   17    0  0.3300  <O>
+   A O  YASIEL PUIG               00659910  2.50 19    95    19    4   15    8    2  0.2000  <O>
+   A O  CHRISTIAN YELICH          00548190  3.50 B    102    36   14   34   26    6  0.3529  <O>
+   A O  BEN ZOBRIST               00253735  0.70 A     71    17    0    7    8    0  0.2394  <2O>
+  BOYS  - Hitter Totals:                             1202   303   45  164  152   19  0.2521
+ 
+  BOYS  - Reserved and Minor League Players
+   P P  JACOB WEBB                00829328  0.10 F     1   1     3.7     1    1    0     5   0.000   0.545
+   P P  DAN WINKLER               00550188  0.40 F     0   0     5.7     4    3    2     7   3.176   1.235
+   P O  BRYAN REYNOLDS            00873683  0.40 F     21     9    0    0    0    0  0.4286  <O>
+   R P  MICHAEL WACHA             00621625  0.50 A     2   0    26.3    24   17   14    29   4.785   1.557
+   R O  LONNIE CHISENHALL         00000000  0.10 A   <No stats returned>
+   M S  JAVIER GUERRA             00000000  1.00 M   <No stats returned>
+   M O  ARISTEDES AQUINO          00000000  1.00 M   <No stats returned>
+   M O  MONTE HARRISON            00000000  1.00 M   <No stats returned>
+ 
+ 
+  Wall-Aces (ACES) Dennis Wallace,0, ,TBD
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  CHASE ANDERSON            00501567  1.00 A     2   0    19.7    16    9    7    22   3.203   1.271
+   A P  STEVE CISHEK              00389709  1.00 A     0   0    11.7    10    5    6    14   4.629   1.286
+   A P  COLE HAMELS               00202810  1.40 A     3   0    31.3    22    9   11    30   3.160   0.989
+   A P  TYLER MAHLE               00737914  1.00 A     0   0    28.0    32    7   14    26   4.500   1.393
+   A P  TANNER ROARK              00454939  0.30 A     1   0    28.7    33   15   13    27   4.081   1.674
+   A P  WILL SMITH                00454956  1.00 B     0   7    10.7     8    4    4    12   3.375   1.125
+   A P  STEPHEN STRASBURG         00500543  3.30 B     2   0    37.7    28   10   16    48   3.823   1.009
+   A P  ADAM WAINWRIGHT           00184098  1.00 A     2   0    25.0    24   10   11    22   3.960   1.360
+   A P  KIRBY YATES               00505235  0.20 B     0  13    15.0    10    5    1    23   0.600   1.000
+  ACES  - Pitcher Totals:                              9  21  180.0  162   63   70  197   3.500   1.250
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  JOSE IGLESIAS             00519724  0.10 A     74    22    1    6    8    0  0.2973  <S>
+   A C  TYLER FLOWERS             00326094  0.20 A     52    18    3    4    7    0  0.3462  <C>
+   A C  CHAD WALLACH              00550207  1.00 A     28     8    1    1    4    0  0.2857  <C>
+   A 1  PAUL GOLDSCHMIDT          00501577  4.90 B    111    30    9   19   22    0  0.2703  <1>
+   A 2  JOE PANIK                 00577938  0.30 A     80    16    1    7    5    0  0.2000  <2>
+   A S  ORLANDO ARCIA             00596917  1.00 A     95    22    4   11   12    0  0.2316  <S>
+   A 3  MARTIN PRADO              00244153  0.10 A     63    18    1    7    6    0  0.2857  <13>
+   A W  JOEY VOTTO                00201517  4.20 B     90    21    3    5   13    0  0.2333  <1>
+   A M  EDUARDO ESCOBAR           00455635  1.60 B    105    30    5   17   16    0  0.2857  <3>
+   A O  KEON BROXTON              00455550  0.40 A     41     6    0    2    4    4  0.1463  <O>
+   A O  CURTIS GRANDERSON         00202398  0.30 A     77    14    3   10    7    0  0.1818  <O>
+   A O  JASON HEYWARD             00388409  0.90 B     77    24    5   15   15    4  0.3117  <O>
+   A O  ENDER INCIARTE            00503287  1.90 19    89    21    2    6    8    3  0.2360  <O>
+   A O  DAVID PERALTA             00329170  1.80 B    120    39    4   19   19    0  0.3250  <O>
+  ACES  - Hitter Totals:                             1096   287   42  130  149   11  0.2619
+ 
+  ACES  - Reserved and Minor League Players
+   P C  RUSSELL MARTIN            00202338  0.10 A     20     6    1    2    8    0  0.3000  <C>
+   R P  JOHNNY CUETO              00295352  0.20 A   <No stats returned>
+   R P  CARLOS MARTINEZ           00547784  0.80 A   <No stats returned>
+   R P  ARODYS VIZCAINO           00455896  0.80 19    1   1     4.0     3    3    1     6   2.250   1.500
+   R P  TAIJUAN WALKER            00548165  0.20 A   <No stats returned>
+   W O  JASON MARTIN              00737834  0.00 A     35     8    0    2    3    2  0.2286  <O>
+ 
+ 
+  Fran's Wardens (WARD) Fran Ward,0, ,Richie Ashburn
+             Player                  ID      $   Con  W   SV     IP      H   BB   ER    K     ERA     WHIP  
+   A P  JACOB DEGROM              00548447  3.10 B     2   0    26.0    26   10   14    43   4.846   1.385
+   A P  CLAYTON KERSHAW           00326468  3.00 A     1   0    20.0    11    4    5    21   2.250   0.750
+   A P  YOAN LOPEZ                00862560  0.10 A     0   0    11.0     5    5    1     9   0.818   0.909
+   A P  JOEY LUCCHESI             00917967  0.50 B     3   0    31.0    35   10   17    34   4.935   1.452
+   A P  MARK MELANCON             00327089  0.10 A     0   0    11.7    10    3    2     8   1.543   1.114
+   A P  PAT NESHEK                00202581  1.00 A     0   1    11.0    13    1    3     5   2.455   1.273
+   A P  DREW POMERANZ             00390654  1.00 A     1   0    24.7    24   10   10    28   3.649   1.378
+   A P  JOSE QUINTANA             00505541  0.40 A     3   0    33.7    32    9   13    38   3.475   1.218
+   A P  JOSE URENA                00506871  0.10 A     1   0    33.7    43    9   18    25   4.812   1.545
+  WARD  - Pitcher Totals:                             13   0  204.7  200   67   88  217   3.870   1.305
+ 
+             Player                  ID      $   Con   AB  Hits   HR  RBI   RS   SB    BA    Positions 
+   A U  PABLO SANDOVAL            00254551  1.00 A     46    13    2    6    8    0  0.2826  <3>
+   A C  ANDREW KNAPP              00550140  0.10 A     22     4    0    0    1    0  0.1818  <C>
+   A C  MATT WIETERS              00388382  0.20 B     11     4    0    5    0    1  0.3636  <C>
+   A 1  TODD FRAZIER              00389301  0.30 A     25     5    1    6    1    1  0.2000  <3>
+   A 2  BRIAN DOZIER              00501587  2.20 A     83    16    4    6   10    1  0.1928  <2>
+   A S  JOSE PERAZA               00596851  1.10 B     85    17    2    6    9    3  0.2000  <2S>
+   A 3  NOLAN ARENADO             00500816  4.90 B    115    31    6   20   19    1  0.2696  <3>
+   A W  KYLE FARMER               00620958  0.00 A     24     4    3    7    3    0  0.1667  <23>
+   A M  MAX MUNCY                 00503373  0.30 B     89    23    5   17   10    0  0.2584  <1>
+   A O  MELKY CABRERA             00244113  0.10 A     81    27    3    7    8    1  0.3333  <O>
+   A O  ROSELL HERRERA            00547996  1.00 A     53     8    0    3    4    3  0.1509  <O>
+   A O  WIL MYERS                 00501214  2.40 B     98    25    5   11   13    2  0.2551  <1O>
+   A O  J.B. SHUCK                00454723  1.00 A     44     9    0    2    3    1  0.2045  <O>
+   A O  MICHAEL TAYLOR            00501492  0.60 A     15     3    0    0    2    1  0.2000  <O>
+  WARD  - Hitter Totals:                              850   206   33  103   98   15  0.2424
+ 
+  WARD  - Reserved and Minor League Players
+   P O  LANE THOMAS               00828962  0.40 F     10     4    1    4    1    1  0.4000  <O>
+   R P  KYLE FREELAND             00599746  1.00 B     2   0    33.7    29   12   18    33   4.812   1.218
+   R S  SCOTT KINGERY             00857705  0.10 A     32    13    2    6    5    1  0.4062  <S>
+   R O  YOENIS CESPEDES           00631663  0.80 A   <No stats returned>
+   R O  MATT KEMP                 00244013  0.80 A     60    12    1    5    4    0  0.2000  <O>
+   R O  STARLING MARTE            00503030  3.70 B     69    14    2    9    8    3  0.2029  <O>
+   M O  ADOLIS GARCIA             00908695  1.00 M   <No stats returned>
+ 
+ 

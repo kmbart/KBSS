@@ -1,0 +1,23 @@
+LoadNLH.py = NOT USED - now load all hitter stats into a single RWDB table
+LoadNLP.py = NOT USED - now load all pitcher stats into a single RWDB table
+StatReq.py = NOT USED - RotoWire restricts access to page scrapers
+
+LoadRoster.py = loads roster files in CSV format to the DSL database Rosters table one week at a time
+
+LoadWklyStats.py = load hitter and pitcher stats from RW folder stat files in CSV format to RWDB database WklyStats table
+
+PointsTest3.py = third version of tie-breaker test code
+
+ReformatNLH.py = read in NLH file and reformat it: strip off header line and put one player on each line (NLH to NFH)
+
+ReformatNLP.py = read in NLP file and reformat it: strip off header line and put one player on each line (NLP to NFP)
+
+RosterReformat.py = reformat a roster text file into player and team CSV files (ROST to CSVP & CSVT)
+
+StatCompare.py = compare category totals for each team between Rotowire and KBSS
+
+WeekByWeek.py = search for a given string (e.g. 'KOPS PITCHING FOR WEEK') in the week-by-week stat listings
+
+WeekTimer.py = test version of program to time various functions to see where the slowdown occurs
+
+WklyStatRpt.py = Calculate standings using cumulative weekly stats

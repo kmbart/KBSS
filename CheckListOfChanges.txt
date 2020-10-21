@@ -1,0 +1,8 @@
+Put week dictionaries into separate module and import in all scripts
+
+Put DB connections into separate module and import in all scripts (DSL, RWDB)
+
+Rename all modules to reflect specific purpose
+
+Make list of scripts and their purpose
+

@@ -1,0 +1,266 @@
+   Wins         Saves       Strikeouts         ERA              WHIP
+BOYS    6     KOPS    3     BOYS    76     ACES  1.2857     PWIZ  0.9091
+PWIZ    4     CRIT    3     WARD    62     PWIZ  2.4545     SQDS  1.0125
+WARD    3     PWIZ    3     DLAY    57     DLAY  2.9051     BOYS  1.0833
+KOPS    2     PMOB    3     KOPS    54     LOUS  3.2400     CRIT  1.1194
+DLAY    2     RAKE    2     PMOB    52     WARD  3.3097     WARD  1.1226
+BALZ    2     BALZ    2     PWIZ    42     KOPS  3.3986     ACES  1.1786
+LOUS    2     DLAY    1     LOUS    40     CRIT  4.0299     DLAY  1.1962
+ACES    2     WARD    1     BALZ    38     BALZ  4.1327     KOPS  1.2378
+CRIT    1     SQDS    0     ACES    34     BOYS  4.2000     RAKE  1.2651
+RAKE    1     LOUS    0     RAKE    27     PMOB  4.8879     PMOB  1.3448
+PMOB    1     BOYS    0     SQDS    25     RAKE  5.2048     LOUS  1.3800
+SQDS    0     ACES    0     CRIT    19     SQDS  5.4000     BALZ  1.4082
+
+    HR            RBI          Runs           SB             BA
+KOPS   18     KOPS   46     KOPS   37     KOPS   12     BALZ  0.2938
+BOYS    9     PWIZ   34     BOYS   35     BOYS    7     KOPS  0.2852
+WARD    9     LOUS   26     WARD   33     CRIT    6     WARD  0.2802
+SQDS    8     ACES   26     LOUS   30     WARD    5     ACES  0.2732
+DLAY    8     WARD   25     CRIT   28     SQDS    4     CRIT  0.2466
+LOUS    8     SQDS   23     PWIZ   27     PMOB    4     BOYS  0.2424
+PMOB    7     DLAY   22     SQDS   27     RAKE    3     SQDS  0.2350
+CRIT    6     PMOB   21     RAKE   24     LOUS    3     LOUS  0.2263
+PWIZ    6     RAKE   20     DLAY   24     BALZ    2     DLAY  0.2247
+RAKE    6     CRIT   19     PMOB   24     ACES    2     PMOB  0.2245
+BALZ    5     BOYS   19     BALZ   19     PWIZ    0     PWIZ  0.2131
+ACES    5     BALZ   14     ACES   17     DLAY    0     RAKE  0.1980
+
+Pitching Points     Hitting Points       Total Points
+PWIZ      51.50     KOPS      59.00     KOPS      97.50
+WARD      42.50     WARD      47.50     WARD      90.00
+BOYS      40.50     BOYS      42.00     BOYS      82.50
+KOPS      38.50     LOUS      37.00     PWIZ      76.50
+DLAY      38.50     SQDS      35.00     LOUS      63.50
+ACES      32.50     CRIT      32.50     DLAY      62.00
+CRIT      29.50     PMOB      25.50     CRIT      62.00
+PMOB      27.50     PWIZ      25.00     ACES      57.00
+LOUS      26.50     ACES      24.50     PMOB      53.00
+BALZ      25.50     DLAY      23.50     SQDS      52.50
+RAKE      19.50     BALZ      20.00     BALZ      45.50
+SQDS      17.50     RAKE      18.50     RAKE      38.00
+         482827 function calls (474663 primitive calls) in 7.539 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1009(_handle_fromlist)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:103(release)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:143(__init__)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:147(__enter__)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:151(__exit__)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:157(_get_module_lock)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:176(cb)
+     13/2    0.000    0.000    0.012    0.006 <frozen importlib._bootstrap>:211(_call_with_frames_removed)
+      124    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:222(_verbose_message)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:232(_requires_builtin_wrapper)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:307(__init__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:311(__enter__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:318(__exit__)
+       32    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:321(<genexpr>)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:35(_new_module)
+        9    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:369(__init__)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:403(cached)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:416(parent)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:424(has_location)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:433(spec_from_loader)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:504(_init_module_attrs)
+        8    0.000    0.000    0.004    0.000 <frozen importlib._bootstrap>:576(module_from_spec)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:58(__init__)
+      8/2    0.000    0.000    0.014    0.007 <frozen importlib._bootstrap>:663(_load_unlocked)
+        9    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:719(find_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:740(create_module)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:748(exec_module)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:765(is_package)
+       11    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:78(acquire)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:792(find_spec)
+       23    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:855(__enter__)
+       23    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:859(__exit__)
+        9    0.000    0.000    0.005    0.001 <frozen importlib._bootstrap>:882(_find_spec)
+     11/2    0.000    0.000    0.016    0.008 <frozen importlib._bootstrap>:948(_find_and_load_unlocked)
+     11/2    0.000    0.000    0.016    0.008 <frozen importlib._bootstrap>:978(_find_and_load)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1029(__init__)
+        1    0.000    0.000    0.003    0.003 <frozen importlib._bootstrap_external>:1040(create_module)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1048(exec_module)
+        2    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:1190(_path_hooks)
+       29    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:1203(_path_importer_cache)
+        7    0.000    0.000    0.005    0.001 <frozen importlib._bootstrap_external>:1240(_get_spec)
+        7    0.000    0.000    0.005    0.001 <frozen importlib._bootstrap_external>:1272(find_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1319(__init__)
+       16    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1325(<genexpr>)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1351(_get_spec)
+       24    0.000    0.000    0.004    0.000 <frozen importlib._bootstrap_external>:1356(find_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1404(_fill_cache)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1433(<setcomp>)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1445(path_hook_for_FileFinder)
+       10    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:271(cache_from_source)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:36(_relax_case)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:369(_get_cached)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:401(_check_name_wrapper)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:438(_classify_pyc)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:471(_validate_timestamp_pyc)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:51(_r_long)
+        5    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:523(_compile_bytecode)
+      118    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:56(_path_join)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:574(spec_from_file_location)
+      118    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:58(<listcomp>)
+       10    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:62(_path_split)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:719(create_module)
+      5/2    0.000    0.000    0.014    0.007 <frozen importlib._bootstrap_external>:722(exec_module)
+       39    0.000    0.000    0.003    0.000 <frozen importlib._bootstrap_external>:74(_path_stat)
+        5    0.000    0.000    0.005    0.001 <frozen importlib._bootstrap_external>:793(get_code)
+       10    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:84(_path_is_mode_type)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:884(__init__)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:909(get_filename)
+        5    0.003    0.001    0.003    0.001 <frozen importlib._bootstrap_external>:914(get_data)
+        8    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:93(_path_isfile)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:951(path_stats)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:98(_path_isdir)
+     9844    0.064    0.000    0.064    0.000 WklyStatRptv37.py:114(calcStatDiff)
+    10168    0.044    0.000    0.069    0.000 WklyStatRptv37.py:156(findPositions)
+    10947    0.006    0.000    0.006    0.000 WklyStatRptv37.py:176(getListType)
+    26203    0.063    0.000    4.949    0.000 WklyStatRptv37.py:189(getPlayerStats)
+    10947    0.030    0.000    0.030    0.000 WklyStatRptv37.py:198(getPlayerType)
+      312    0.002    0.000    0.004    0.000 WklyStatRptv37.py:237(makeHeaderHitters)
+      312    0.002    0.000    0.005    0.000 WklyStatRptv37.py:254(makeHeaderPitchers)
+     5681    0.030    0.000    0.102    0.000 WklyStatRptv37.py:272(makeHitterStatsStr)
+     4163    0.029    0.000    0.092    0.000 WklyStatRptv37.py:293(makePitcherStatsStr)
+    10947    0.047    0.000    0.160    0.000 WklyStatRptv37.py:319(makePlayerInfoStr)
+      312    0.001    0.000    0.005    0.000 WklyStatRptv37.py:333(makeTeamHitterTotalsStr)
+      312    0.003    0.000    0.008    0.000 WklyStatRptv37.py:350(makeTeamPitcherTotalsStr)
+     5681    0.016    0.000    0.016    0.000 WklyStatRptv37.py:369(sumHitterStats)
+     4163    0.015    0.000    0.015    0.000 WklyStatRptv37.py:381(sumPitcherStats)
+       10    0.000    0.000    0.000    0.000 WklyStatRptv37.py:395(putPointsOnList)
+        1    0.227    0.227    7.539    7.539 WklyStatRptv37.py:48(<module>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:524(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:525(<lambda>)
+      312    0.001    0.000    0.001    0.000 WklyStatRptv37.py:551(<listcomp>)
+    10947    0.018    0.000    0.018    0.000 WklyStatRptv37.py:585(<lambda>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:699(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:699(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:701(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:701(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:703(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:703(<listcomp>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:705(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:706(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:708(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:709(<lambda>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:712(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:712(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:714(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:714(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:716(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:716(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:718(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:718(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:720(<lambda>)
+        1    0.000    0.000    0.000    0.000 WklyStatRptv37.py:720(<listcomp>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:755(<lambda>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:757(<lambda>)
+       12    0.000    0.000    0.000    0.000 WklyStatRptv37.py:759(<lambda>)
+        1    0.000    0.000    0.011    0.011 __init__.py:23(<module>)
+        1    0.000    0.000    0.000    0.000 _bootlocale.py:11(getpreferredencoding)
+        5    0.000    0.000    0.000    0.000 _collections_abc.py:302(__subclasshook__)
+        1    0.000    0.000    0.000    0.000 abc.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 abc.py:130(register)
+      5/1    0.000    0.000    0.000    0.000 abc.py:141(__subclasscheck__)
+        1    0.000    0.000    0.000    0.000 codecs.py:186(__init__)
+ 8424/312    0.017    0.000    0.032    0.000 copy.py:132(deepcopy)
+     8112    0.002    0.000    0.002    0.000 copy.py:190(_deepcopy_atomic)
+      312    0.006    0.000    0.028    0.000 copy.py:236(_deepcopy_dict)
+      312    0.002    0.000    0.002    0.000 copy.py:252(_keep_alive)
+        1    0.000    0.000    0.001    0.001 copy.py:49(<module>)
+        1    0.000    0.000    0.000    0.000 copy.py:55(Error)
+    29650    0.019    0.000    0.052    0.000 cp1252.py:18(encode)
+        1    0.000    0.000    0.000    0.000 datetime.py:1092(tzinfo)
+        1    0.000    0.000    0.000    0.000 datetime.py:1162(time)
+        2    0.000    0.000    0.000    0.000 datetime.py:1187(__new__)
+        1    0.000    0.000    0.000    0.000 datetime.py:1509(datetime)
+        3    0.000    0.000    0.000    0.000 datetime.py:1517(__new__)
+        1    0.000    0.000    0.000    0.000 datetime.py:2136(timezone)
+        3    0.000    0.000    0.000    0.000 datetime.py:2156(_create)
+       35    0.000    0.000    0.000    0.000 datetime.py:379(_check_int_field)
+        5    0.000    0.000    0.000    0.000 datetime.py:396(_check_date_fields)
+        5    0.000    0.000    0.000    0.000 datetime.py:409(_check_time_fields)
+        3    0.000    0.000    0.000    0.000 datetime.py:41(_days_before_year)
+        5    0.000    0.000    0.000    0.000 datetime.py:426(_check_tzinfo_arg)
+        1    0.000    0.000    0.000    0.000 datetime.py:454(timedelta)
+        5    0.000    0.000    0.000    0.000 datetime.py:46(_days_in_month)
+        9    0.000    0.000    0.000    0.000 datetime.py:473(__new__)
+        1    0.000    0.000    0.001    0.001 datetime.py:5(<module>)
+        1    0.000    0.000    0.000    0.000 datetime.py:646(__neg__)
+        1    0.000    0.000    0.000    0.000 datetime.py:774(date)
+        2    0.000    0.000    0.000    0.000 datetime.py:804(__new__)
+        1    0.000    0.000    0.010    0.010 dbapi2.py:23(<module>)
+        1    0.000    0.000    0.000    0.000 dbapi2.py:50(<listcomp>)
+        1    0.000    0.000    0.000    0.000 dbapi2.py:51(<listcomp>)
+        1    0.000    0.000    0.000    0.000 dbapi2.py:56(register_adapters_and_converters)
+       19    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x00007FFF029D59A0}
+        1    0.000    0.000    0.000    0.000 {built-in method _abc._abc_register}
+      5/1    0.000    0.000    0.000    0.000 {built-in method _abc._abc_subclasscheck}
+    29650    0.033    0.000    0.033    0.000 {built-in method _codecs.charmap_encode}
+        5    0.000    0.000    0.000    0.000 {built-in method _imp._fix_co_filename}
+       45    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.create_builtin}
+        1    0.003    0.003    0.003    0.003 {built-in method _imp.create_dynamic}
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.exec_builtin}
+        1    0.000    0.000    0.000    0.000 {built-in method _imp.exec_dynamic}
+        7    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+        7    0.000    0.000    0.000    0.000 {built-in method _imp.is_frozen}
+       45    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+        1    0.000    0.000    0.000    0.000 {built-in method _locale._getdefaultlocale}
+        2    0.001    0.001    0.001    0.001 {built-in method _sqlite3.connect}
+        2    0.000    0.000    0.000    0.000 {built-in method _sqlite3.register_adapter}
+        2    0.000    0.000    0.000    0.000 {built-in method _sqlite3.register_converter}
+       22    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+       22    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+        7    0.000    0.000    0.000    0.000 {built-in method builtins.__build_class__}
+      2/1    0.000    0.000    0.001    0.001 {built-in method builtins.__import__}
+       72    0.000    0.000    0.000    0.000 {built-in method builtins.abs}
+        8    0.000    0.000    0.000    0.000 {built-in method builtins.any}
+       45    0.000    0.000    0.000    0.000 {built-in method builtins.divmod}
+      6/1    0.000    0.000    7.539    7.539 {built-in method builtins.exec}
+       45    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       53    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+     9360    0.002    0.000    0.002    0.000 {built-in method builtins.id}
+      193    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       15    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+    10168    0.020    0.000    0.020    0.000 {built-in method builtins.max}
+    10168    0.006    0.000    0.006    0.000 {built-in method builtins.min}
+    14108    0.065    0.000    0.117    0.000 {built-in method builtins.print}
+        9    0.000    0.000    0.000    0.000 {built-in method builtins.round}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.setattr}
+       14    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+       15    0.000    0.000    0.000    0.000 {built-in method from_bytes}
+        1    0.001    0.001    0.002    0.002 {built-in method io.open}
+        5    0.001    0.000    0.001    0.000 {built-in method marshal.loads}
+       16    0.000    0.000    0.000    0.000 {built-in method nt.fspath}
+        5    0.000    0.000    0.000    0.000 {built-in method nt.getcwd}
+        2    0.000    0.000    0.000    0.000 {built-in method nt.listdir}
+       39    0.003    0.000    0.003    0.000 {built-in method nt.stat}
+        8    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+    11895    0.004    0.000    0.004    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'close' of '_io.TextIOWrapper' objects}
+        2    0.000    0.000    0.000    0.000 {method 'cursor' of 'sqlite3.Connection' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        7    0.000    0.000    0.000    0.000 {method 'endswith' of 'str' objects}
+    26516    5.772    0.000    5.772    0.000 {method 'execute' of 'sqlite3.Cursor' objects}
+        6    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+      313    0.476    0.002    0.476    0.002 {method 'fetchall' of 'sqlite3.Cursor' objects}
+    26203    0.227    0.000    0.227    0.000 {method 'fetchone' of 'sqlite3.Cursor' objects}
+   144923    0.246    0.000    0.246    0.000 {method 'format' of 'str' objects}
+    16870    0.004    0.000    0.004    0.000 {method 'get' of 'dict' objects}
+      325    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+    21543    0.016    0.000    0.016    0.000 {method 'join' of 'str' objects}
+       13    0.000    0.000    0.000    0.000 {method 'lower' of 'str' objects}
+        8    0.000    0.000    0.000    0.000 {method 'partition' of 'str' objects}
+        5    0.001    0.000    0.001    0.000 {method 'read' of '_io.FileIO' objects}
+       54    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {method 'rsplit' of 'str' objects}
+      246    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+      312    0.006    0.000    0.025    0.000 {method 'sort' of 'list' objects}
+       26    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        4    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+
+

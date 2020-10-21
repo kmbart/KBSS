@@ -1,0 +1,11 @@
+            Player               ID      $   Con   W  SV    IP    H  BB  ER   K    ERA    WHIP  
+A P CHRIS ARCHER              00326752  2.20 A     1   0   11.0   7   5   3  15   2.455   1.091
+A P SEAN DOOLITTLE            00389914  1.50 19    2   0    4.3   4   0   0   4   0.000   0.923
+A P MAX FRIED                 00657860  0.60 19    1   0    7.7   1   2   0   5   0.000   0.391
+A P GREG HOLLAND              00389859  1.00 B     1   2    3.0   1   0   0   4   0.000   0.333
+O P COREY KNEBEL              00737537  0.10 A   <No stats returned>
+A P KENTA MAEDA               00379502  1.90 A     2   0   11.7   9   6   4  10   3.086   1.286
+A P HECTOR NERIS              00550523  0.60 A     0   1    4.7   2   0   2   5   3.857   0.429
+A P TREVOR RICHARDS           00922230  0.10 B     0   0   12.0   9   5   4  11   3.000   1.167
+A P LUKE WEAVER               00599729  0.70 A     0   0    9.3  11   4   7   7   6.750   1.607
+KOPS  - Pitcher Totals:                            7   3   63.7  44  22  20  61   2.827   1.037
